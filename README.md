@@ -357,3 +357,4 @@
 - SWC-134 | [Message call with harcoded gas amount](https://swcregistry.io/docs/SWC-134)
 - SWC-135 | [Code With No Effects](https://swcregistry.io/docs/SWC-135)
 - SWC-136 | [Unencrypted Private Data On-Chain](https://swcregistry.io/docs/SWC-136)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
